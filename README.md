@@ -1,9 +1,12 @@
 # firebase
 
-apiKey: "AIzaSyDNXL9Mie17vJn1Ku358ywiHTQd61BpbeQ",
-  authDomain: "authpyflask.firebaseapp.com",
-  projectId: "authpyflask",
-  storageBucket: "authpyflask.firebasestorage.app",
-  messagingSenderId: "117906449121",
-  appId: "1:117906449121:web:fbaa489221858b8d184da0",
-  measurementId: "G-7XQYWHN05J"
+
+<!-- Configuración de Firebase: Creación de un proyecto en Firebase y habilitación de la autenticación con email y contraseña. -->
+
+<!-- Instalación y configuración en Flask: Instalaremos las bibliotecas necesarias y configuraremos Flask para trabajar con Firebase. -->
+
+Registro de usuarios (Sign Up): Implementaremos el endpoint para registrar usuarios con email y contraseña.
+
+Inicio de sesión (Sign In): Crearemos un endpoint para que los usuarios inicien sesión.
+
+Protección de rutas: Implementaremos la validación de tokens para proteger rutas específicas.
